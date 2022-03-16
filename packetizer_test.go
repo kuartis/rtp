@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	codecs "github.com/kuartis/rtp_go/codecs"
+	codecs "github.com/kuartis/rtp/codecs"
 )
 
 func TestPacketizer(t *testing.T) {
