@@ -17,6 +17,9 @@
 </p>
 <br>
 
+### Copied Project from:
+Pion RTP Project, link is as follows: <a href="https://github.com/pion/rtp">https://github.com/pion/rtp</a>
+
 ### Roadmap
 The library is used as a part of our WebRTC implementation. Please refer to that [roadmap](https://github.com/pion/webrtc/issues/9) to track our major milestones.
 
@@ -32,4 +35,3 @@ Check out the **[contributing wiki](https://github.com/pion/webrtc/wiki/Contribu
 
 ### License
 MIT License - see [LICENSE](LICENSE) for full text
-# rtp_mas
