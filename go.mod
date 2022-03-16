@@ -1,4 +1,4 @@
-module github.com/kuartis/rtp
+module github.com/kuartis/rtp_go
 
 go 1.13
 
